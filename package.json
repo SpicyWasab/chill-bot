@@ -1,0 +1,22 @@
+{
+  "name": "chill-bot",
+  "version": "0.0.1",
+  "description": "Un bot discord simple :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpicyWasab/chill-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpicyWasab/chill-bot/issues"
+  },
+  "homepage": "https://github.com/SpicyWasab/chill-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
